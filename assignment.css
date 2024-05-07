@@ -1,0 +1,29 @@
+.h1{
+    color: orangered;
+}
+.h2{
+    font-style: italic;
+    color: rgb(199, 146, 32);
+}
+.list{
+    color: brown;
+   
+}
+.linethrough{
+   text-decoration: line-through;
+}
+.em
+{
+    background-color: yellow;
+}
+.underline{
+    text-decoration: underline;
+}
+.letterspace
+{
+    letter-spacing: 5px;
+    color: brown;
+}
+.paragraph{
+    color: brown;
+}
